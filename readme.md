@@ -235,6 +235,6 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 [![GitHub](https://img.shields.io/badge/GitHub-VishalLokhande7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishalLokhande7)
 
-**Made with ❤️ by Vishal Lokhande**
+** - Vishal Lokhande**
 
 </div>
